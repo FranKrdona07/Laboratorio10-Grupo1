@@ -1,0 +1,5 @@
+body { margin: 0; padding: 0; background:#f7f7f7; }
+table { width: 100%; border-collapse: collapse; }
+th, td { text-align:left; padding:6px; border-bottom: 1px solid #eee }
+button { padding:8px 12px; cursor:pointer }
+input, select { padding:6px; margin-right:8px }
